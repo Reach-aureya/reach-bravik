@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Bravik
             </Link>
             <p className="text-gray-300 max-w-md">
-              Best In Class Bravik Bags Design Software
+              Best In Class Layout and DTP Software for Bags Design
             </p>
 
 

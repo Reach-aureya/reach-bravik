@@ -90,7 +90,7 @@ const Header = () => {
 
           {/* TAGLINE */}
           <p className="mt-3 text-base text-gray-600 text-center lg:text-right">
-            REACH Bravik for Bags Design is a specialized layout and documentation solution that helps bag brands turn ideas into factory‑ready, marketing‑ready, and retail‑ready assets with precision and consistency.  
+            Best In Class Layout and DTP Software for Bags Design 
           </p>
 
         </div>
